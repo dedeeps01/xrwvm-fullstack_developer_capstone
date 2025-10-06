@@ -8,4 +8,5 @@
   },
   "author": "",
   "license": "ISC"
+  "lint:fix": "eslint --fix ."
 }
